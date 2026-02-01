@@ -70,9 +70,13 @@ streamlit run app.py
 ##  Przepływ pracy (Workflow)
 
  
-> **Krok 1:** Wgraj plik CSV w zakładce "Upload".
+> **Krok 1:** Wgraj plik CSV w zakładce "Upload". 
+![Upload](images/upload.png)
+![Upload](images/upload1.png)
 > **Krok 2:** Przejdź do "Profiling", aby zrozumieć strukturę swoich danych.
+![Profiling](images/eda1.png)
 > **Krok 3:** W zakładce "ML" wybierz kolumnę, którą chcesz przewidzieć i kliknij przycisk trenowania.
+![ML](images/best_trained_model.png)
 > **Krok 4:** Pobierz gotowy plik `.pkl` i ciesz się modelem!
 
 ---
