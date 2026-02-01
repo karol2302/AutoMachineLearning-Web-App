@@ -81,7 +81,7 @@ streamlit run app.py
 
 ---
 
-## 🧪 Przykładowe czyszczenie danych
+## Przykładowe czyszczenie danych
 
 Aplikacja posiada wbudowaną funkcję `clean_df`, która automatycznie:
 
